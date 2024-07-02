@@ -80,7 +80,7 @@ The project is hosted at [bytebond-self.vercel.app](https://bytebond-self.vercel
 This project was developed by a dedicated team of three members:
 
 - **Member 1:** [Abhishek Rawat]
-- **Member 2:** [Manajigari Harshitha]
+- **Member 2:** Manajigari Harshitha
 - **Member 3:** [Nishant Malhotra]
 
 We worked together to design and build this feature-rich application. Our combined efforts and collaboration have led to this successful project.
